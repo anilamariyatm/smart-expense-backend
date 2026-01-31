@@ -19,3 +19,6 @@ Database: MongoDB
 
 ## Deployment
 Currently deployed locally for demonstration. Can be easily deployed to cloud platforms.
+
+## 🔗 Frontend Repository
+https://github.com/anilamariyatm/smart-expense-frontend
